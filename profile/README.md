@@ -1,12 +1,9 @@
-## Hi there 👋
+# Bienvenue sur le GitHub de Localis SAS
 
-<!--
+## 🚀 Notre Mission
 
-**Here are some ideas to get you started:**
+Localis a pour mission de créer un écosystème numérique de confiance pour le commerce de produits locaux au Sénégal. Notre objectif est de simplifier l'accès à des produits frais et de qualité en connectant directement les producteurs locaux vérifiés avec les consommateurs finaux. Nous garantissons une traçabilité et une fiabilité irréprochables à chaque étape du processus, de la commande à la livraison.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🌍 L'Écosystème Localis
+
+Le projet Localis est un écosystème composé de plusieurs applications qui fonctionnent en synergie pour offrir une expérience simple et sécurisée à tous nos utilisateurs. La première version (MVP) se concentre sur le cœur de l'expérience pour valider notre modèle.
